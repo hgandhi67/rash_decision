@@ -1,0 +1,869 @@
+[
+  {
+    "id": 1,
+    "name": "Allergic Eczema",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Allergic eczema is a form of eczema that occurs in response to contact with an allergen. An allergen isany substance to which a person may be allergic. It is commonly called contact dermatitis.",
+    "Symptoms": [
+      "Itching, burning sensation or pain",
+      "Red bumps that may ooze, drain or crust",
+      "Redness and swelling in the affected area"
+    ],
+    "Causes": [
+      "Antibiotic creams or ointments that are used on the skin",
+      "Expose to nickel which can be found in jewelry, belt buckles, and metal buttons",
+      "Perfumes found in cosmetics",
+      "Clothing dyes and soaps/cleaning products"
+    ],
+    "Actions": [
+      "Moisturize the skin daily with a fragrance-free moisturizer",
+      "Take oatmeal baths",
+      "Wear protective clothing and gloves when in contact"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "OTC antihistamines",
+        "description": "Reduces or stops an allergic reaction.",
+        "sub_list": [
+          "Brompheniramine",
+          "Diphenhydramine",
+          "Loratadine"
+        ]
+      },
+      {
+        "title": "Topical antiseptic",
+        "description": "Destroys or prevents the growth of microorganisms on the skin that may cause infection.",
+        "sub_list": [
+          "Neomycin",
+          "Bacitracin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Allergic_eczema_001.jpg",
+      "images/Allergic_eczema_002.jpg",
+      "images/Allergic_eczema_003.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cellulitis",
+    "color": "0xffff3500",
+    "Risk Factor": "High",
+    "Description": "Cellulitis is a common and sometimes painful bacterial skin infection. It may first appear as a red, swollen area that feels hot and tender to the touch. The redness and swelling can spread quickly.",
+    "Symptoms": [
+      "Pain and tenderness in the affected area",
+      " Redness or inflammation of your skin",
+      "A skin sore or rash that grows quickly",
+      "Swollen skin with pus formation"
+    ],
+    "Causes": [
+      "Occurs when certain types of bacteria enter the skin through a cut or crack",
+      "Insect bites",
+      "Surgical wounds"
+    ],
+    "Actions": [
+      "Use mouth antibiotics for 6 to 12 days",
+      "Raise the affected area higher than your heart to reduce swelling"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Vancomycin",
+          "Ciprofloxacin",
+          "Clindamycin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Cellulitis_001.jpg",
+      "images/Cellulitis_002.jpg",
+      "images/Cellulitis_003.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chickenpox",
+    "color": "0xffff3500",
+    "Risk Factor": "High",
+    "Description": "Chickenpox is a very contagious infection caused by the varicella-zoster virus. It mainly affects kids, but adults can get it, too. The telltale sign of chickenpox is a super-itchy skin rash with red blisters. Over the course of several days, the blisters pop and start to leak. Then they crust and scab over before finally healing.",
+    "Symptoms": [
+      "Red or pink bumps all over the body and filled with fluid that leaks",
+      "Fever, headache and loss of appetite"
+    ],
+    "Causes": [
+      "Chickenpox is highly contagious spreads through saliva, coughing, sneezing, and contact with fluid from the blisters",
+      "Insect bites",
+      "Surgical wounds"
+    ],
+    "Actions": [
+      "Take lukewarm baths",
+      "Wear soft, lightweight clothing",
+      "Apply topical ointments to help relieve itching"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antiviral drug",
+        "description": "Reduces viruses' ability to replicate.",
+        "sub_list": [
+          "Acyclovir"
+        ]
+      },
+      {
+        "title": "Antihistamine",
+        "description": "Reduces or stops an allergic reaction.",
+        "sub_list": [
+          "Diphenhydramine"
+        ]
+      },
+      {
+        "title": "Analgesic",
+        "description": "Relieves pain.",
+        "sub_list": [
+          "Acetaminophen"
+        ]
+      }
+    ],
+    "images": [
+      "images/Chickenpox_001.jpg",
+      "images/Chickenpox_002.jpg",
+      "images/Chickenpox_003.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Contact Dermatitis",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Contact dermatitis is a red, itchy rash caused by direct contact with a substance or an allergic reaction to it. The rash isn't contagious or life-threatening, but it can be very uncomfortable.",
+    "Symptoms": [
+      "Forms dry, scaly, and flaky skin",
+      "Oozing blisters and skin redness",
+      "Skin burning sensations and sun sensitivity"
+    ],
+    "Causes": [
+      "Nickel or gold exposure to skin",
+      "Perfumes or chemicals in cosmetics and skin care products",
+      "Poison oak or poison ivy"
+    ],
+    "Actions": [
+      "Avoid scratching on the affected area",
+      "Clean the affected part of the skin with mild soap and lukewarm water",
+      "Use anti-itch treatments or petroleum jelly like Vaseline to soothe the area"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Neomycin",
+          "Bacitracin"
+        ]
+      },
+      {
+        "title": "Antifungal",
+        "description": "Kills or prevents growth of fungi.",
+        "sub_list": [
+          "Pyrithione zinc"
+        ]
+      }
+    ],
+    "images": [
+      "images/Contact_dermatitis_001.jpg",
+      "images/Contact_dermatitis_002.jpg",
+      "images/Contact_dermatitis_003.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Drug Allergy",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "A drug allergy is an abnormal reaction of your immune system to a medication. Any medication — over-the-counter, prescription or herbal — is capable of inducing a drug allergy. However, a drug allergy is more likely with certain medications.",
+    "Symptoms": [
+      "Forms skin rashes, hives and itching sensation",
+      "Runny nose and watery eyes",
+      "Mild fever, swelling and shortness of breath"
+    ],
+    "Causes": [
+      "Allergic reaction",
+      "Overdose"
+    ],
+    "Actions": [
+      "Avoid or stop current medication ",
+      "Seek form immediate medical care if symptoms worsen or multiple symptoms occur together"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antihistamine",
+        "description": "Reduces or stops an allergic reaction.",
+        "sub_list": [
+          "Diphenhydramine"
+        ]
+      }
+    ],
+    "images": [
+      "images/Drug_allergy_001.jpg",
+      "images/Drug_allergy_002.jpg",
+      "images/Drug_allergy_003.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Eczema",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Eczema is a condition that makes your skin red and itchy. It's common in children but can occur at any age. Atopic dermatitis is long lasting (chronic) and tends to flare periodically. It may be accompanied by asthma or hay fever.",
+    "Symptoms": [
+      "Forms dryness, and scaly skin",
+      "Redness, itching which may be intense",
+      "Mild fever, swelling and shortness of breath"
+    ],
+    "Causes": [
+      "Dryness in skin",
+      "Triggers in the environment",
+      "Genes or immune system problem"
+    ],
+    "Actions": [
+      "Apply cool compresses to the skin",
+      "Take colloidal oatmeal or baking soda bath",
+      "Never rub, after the bathe, gently lot the skin with soft towel",
+      "Wear loose-fitting clothes mode from soft fibers, like cotton"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "OTC antihistamines",
+        "description": "Reduces or stops an allergic reaction.",
+        "sub_list": [
+          "Brompheniramine",
+          "Diphenhydramine",
+          "Loratadine"
+        ]
+      }
+    ],
+    "images": [
+      "images/Eczema_001.jpg",
+      "images/Eczema_002.jpg",
+      "images/Eczema_003.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Flea Bite",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "A flea bite will appear as a tiny red bump surrounded by a small patch of inflamed skin. Bites will also tend to continue to occur during a home infestation.",
+    "Symptoms": [
+      "Itching and pain sensation",
+      "Swelling around the affected area",
+      "Sometimes nausea, swelling of lips or face"
+    ],
+    "Causes": [
+      "Insect bites"
+    ],
+    "Actions": [
+      "Antihistamine medications",
+      "Avoid scratching",
+      "Wash the affected area of the bites with water and mild soap",
+      "If pet(s) at home, treat them"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Anti-histamine medications",
+        "description": null,
+        "sub_list": [
+        ]
+      },
+      {
+        "title": "Calamine lotion",
+        "description": null,
+        "sub_list": [
+        ]
+      },
+      {
+        "title": "Tea tree oil",
+        "description": null,
+        "sub_list": [
+        ]
+      }
+    ],
+    "images": [
+      "images/Flea_bite_001.jpg",
+      "images/Flea_bite_002.jpg",
+      "images/Flea_bite_003.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "HFMD",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "Hand-foot-and-mouth disease — a mild, contagious viral infection common in young children — is characterized by sores in the mouth and a rash on the hands and feet. Hand-foot-and-mouth disease is most commonly caused by a coxsackievirus.",
+    "Symptoms": [
+      "General feeling of sickness",
+      "Sore throat or painful mouth sores",
+      "Runny nose",
+      "Poor appetite due to painful swallowing"
+    ],
+    "Causes": [
+      "Touch something that has been sneezed, coughed or drooled on",
+      "Touch body fluid from a draining sore"
+    ],
+    "Actions": [
+      "HFMD is mostly self-healing",
+      "Wash hands often with soap and water for at least 30 seconds",
+      "Clean and disinfect frequently touched surfaces and soiled items"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Analgesic",
+        "description": "Relieves pain.",
+        "sub_list": [
+          "Acetaminophen"
+        ]
+      },
+      {
+        "title": "Nonsteroidal anti-inflammatory drug",
+        "description": "Relieves pain, decreases inflammation, and reduces fever.",
+        "sub_list": [
+          "Ibuprofen"
+        ]
+      }
+    ],
+    "images": [
+      "images/HFMD_001.jpg",
+      "images/HFMD_002.jpg",
+      "images/HFMD_003.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Impetigo",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Impetigo is a common and contagious skin infection. Bacteria like Staphylococcus aureus or Streptococcus pyogenes infect the outer layers of skin, called the epidermis. The face, arms, and legs are most often affected.",
+    "Symptoms": [
+      "Reddish sores on the skin",
+      "Clustered around the nose and lips",
+      "Ooze and burst and form a yellowish crust",
+      "Scores can be itchy and occasionally painful"
+    ],
+    "Causes": [
+      "Sunburn, other burns, or live in a warm, humid climate",
+      "Have skin conditions such as eczema, dermatitis or psoriasis",
+      "Have insect bites or poison ivy"
+    ],
+    "Actions": [
+      "Use antibiotic ointments or cream",
+      "Wash the affected area in warm water",
+      "Use clear wet compresses to help remove the scabs so the antibiotic can penetrate the skin"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Penicillin antibiotic",
+        "description": "Stops growth of or kills specific bacteria.",
+        "sub_list": [
+          "Dicloxacillin"
+        ]
+      },
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Retapamulin",
+          "Clindamycin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Impetigo_001.jpg",
+      "images/Impetigo_002.jpg",
+      "images/Impetigo_003.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Measles",
+    "color": "0xffff3500",
+    "Risk Factor": "High",
+    "Description": "Measles is an infectious disease caused by a virus. It spreads easily from person to person. It causes a blotchy red rash. The rash often starts on the head and moves down the body.",
+    "Symptoms": [
+      "Fever, coughing, runny nose, and even red eyes",
+      "Widespread skin rash all over body",
+      "White spots inside the mouth",
+      "Scores can be itchy and occasionally painful"
+    ],
+    "Causes": [
+      "Highly contagious infectious",
+      "Virus invasion, infects the respiratory tract first and eventually spreads to other parts of the body through the bloodstream"
+    ],
+    "Actions": [
+      "Measles vaccination",
+      "Rest to help boost the immune system",
+      "Supplements like vitamins and proteins"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Analgesic",
+        "description": "Relieves pain.",
+        "sub_list": [
+          "Acetaminophen"
+        ]
+      }
+    ],
+    "images": [
+      "images/Measles_001.jpg",
+      "images/Measles_002.jpg",
+      "images/Measles_003.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Melanoma",
+    "color": "0xffff3500",
+    "Risk Factor": "High",
+    "Description": "Melanoma is a serious form of skin cancer that begins in cells known as melanocytes. While it is less common than basal cell carcinoma (BCC) and squamous cell carcinoma (SCC), melanoma is far more dangerous because of its ability to spread to other organs more rapidly if it is not treated at an early stage.",
+    "Symptoms": [
+      "Skin sore that fails to heal",
+      "Spot or sore that becomes painful, itchy, or tender",
+      "Red lump that bleeds or looks ulcerated or crusty",
+      "Flat, red spot that is rough, dry or scaly"
+    ],
+    "Causes": [
+      "Excessive ultraviolet (UV) light exposure",
+      "High number of moles",
+      "Hereditary"
+    ],
+    "Actions": [
+      "Contact an oncologist"
+    ],
+    "Remedies": "",
+    "Remedies_list": [
+    ],
+    "images": [
+      "images/Melanoma_001.jpg",
+      "images/Melanoma_002.jpg",
+      "images/Melanoma_003.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Psoriasis",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Psoriasis is an immune-mediated disease that causes raised, red, scaly patches to appear on the skin. Psoriasis typically affects the outside of the elbows, knees or scalp, though it can appear on any location. Some people report that psoriasis is itchy, burns and stings.",
+    "Symptoms": [
+      "Red itchy patches of skin",
+      "Scaly, or sometimes slivery patches",
+      "Joint swelling, stiffness, or pain is associated"
+    ],
+    "Causes": [
+      "Genetics and immune system issues",
+      "Vitamin D deficiency",
+      "Excessive smoking or/and heavy alcohol consumption"
+    ],
+    "Actions": [
+      "Applications of coal tar, either by cream, oil, or shampoo",
+      "Apply moisturizer"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Vitamin A derivative",
+        "description": "Unplugs blocked hair follicles and helps prevent new blockages from forming. Slows skin cell growth.",
+        "sub_list": [
+          "Acitretin",
+          "Tazarotene"
+        ]
+      },
+      {
+        "title": "Anti-inflammatory",
+        "description": "Prevents or counteracts swelling (inflammation) in joints and tissues.",
+        "sub_list": [
+          "Dithranol"
+        ]
+      }
+    ],
+    "images": [
+      "images/Psoriasis_001.jpg",
+      "images/Psoriasis_002.jpg",
+      "images/Psoriasis_003.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ringworm",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "Ringworm is a common fungal skin infection otherwise known as tinea. Ringworm most commonly affects the skin on the body (tinea corporis), the scalp (tinea capitis), the feet (tinea pedis, or athlete's foot), or the groin (tinea cruris, or jock itch).",
+    "Symptoms": [
+      "Red, itchy, or scaly patches",
+      "Patches that develop blisters or pustules",
+      "Patches that may be redder or resemble a ring shape"
+    ],
+    "Causes": [
+      "Contagious disease",
+      "Wear tight or restrictive clothing",
+      "Weak immune system",
+      "Human, soil, object, or animal contact"
+    ],
+    "Actions": [
+      "Wash beddings and clothes daily, especially during an infection",
+      "Dry thoroughly after bathing",
+      "Wear loose clothing in affected areas"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antifungal",
+        "description": "Kills or prevents growth of fungi.",
+        "sub_list": [
+          "Naftifine",
+          "Ketoconazole",
+          "Miconazole",
+          "Griseofulvin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Ringworm_001.jpg",
+      "images/Ringworm_002.jpg",
+      "images/Ringworm_003.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Rosacea",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "Rosacea is a common skin condition that causes redness and visible blood vessels in your face. It may also produce small, red, pus-filled bumps. These signs and symptoms may flare up for weeks to months and then go away for a while.",
+    "Symptoms": [
+      "Red, itchy, or scaly patches",
+      "Patches that develop blisters or pustules",
+      "Patches that may be redder or resemble a ring shape"
+    ],
+    "Causes": [
+      "Contagious disease",
+      "Wear tight or restrictive clothing",
+      "Weak immune system",
+      "Human, soil, object, or animal contact"
+    ],
+    "Actions": [
+      "Wash beddings and clothes daily, especially during an infection",
+      "Dry thoroughly after bathing",
+      "Wear loose clothing in affected areas"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Minocycline",
+          "Erythromycin",
+          "Metronidazole"
+        ]
+      },
+      {
+        "title": "Vitamin A derivative",
+        "description": "Unplugs blocked hair follicles and helps prevent new blockages from forming. Slows skin cell growth.",
+        "sub_list": [
+          "Tretinoin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Rosacea_001.jpg",
+      "images/Rosacea_002.jpg",
+      "imagesRosacea_003.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Scabies",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "Scabies is a skin infestation caused by a mite known as the Sarcoptes scabiei. Untreated, these microscopic mites can live on your skin for months. They reproduce on the surface of your skin and then burrow into it and lay eggs. This causes an itchy, red rash to form on the skin.",
+    "Symptoms": [
+      "Intense itching that gets worse at night",
+      "Create scores that become infected",
+      "Pimple-like bumps"
+    ],
+    "Causes": [
+      "Infestation of tiny, eight-legged mites"
+    ],
+    "Actions": [
+      "Topical medications to apply at night and washed off in the morning",
+      "Avoid crowded conditions"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Anti-parasite",
+        "description": "Kills parasites.",
+        "sub_list": [
+          "Ivermectin",
+          "Permethrin"
+        ]
+      }
+    ],
+    "images": [
+      "images/Scabies_001.jpg",
+      "images/Scabies_002.jpg",
+      "images/Scabies_003.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Scarlet Fever",
+    "color": "0xffffcb01",
+    "Risk Factor": "Medium",
+    "Description": "Scarlet fever is a disease which can occur as a result of a group A streptococcus (group A strep) infection, also known as Streptococcus pyogenes. The signs and symptoms include a sore throat, fever, headaches,  swollen lymph nodes, and a characteristic rash.",
+    "Symptoms": [
+      "Red, sore throat with white or yellow patches",
+      "High fever, chills, headaches and swollen tonsils",
+      "Vomiting tendencies and nausea"
+    ],
+    "Causes": [
+      "Contagious disease, spreads from person to person via droplets expelled when an infected person coughs or sneezes"
+    ],
+    "Actions": [
+      "Wash hands before meals and after using restroom",
+      "Wash hands anytime after cough or sneeze",
+      "Reduce the share of utensils and drinking glasses with others",
+      "Drink warm teas or broth-based soups to help soothe the throat"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Penicillin antibiotic",
+        "description": "Stops growth of or kills specific bacteria.",
+        "sub_list": [
+          "Amoxicillin",
+          "Penicillin V"
+        ]
+      },
+      {
+        "title": "Analgesic",
+        "description": "Relieves pain.",
+        "sub_list": [
+          "Acetaminophen"
+        ]
+      }
+    ],
+    "images": [
+      "images/Scarlet_001.jpg",
+      "images/Scarlet_002.jpg",
+      "images/Scarlet_003.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Seborrhoeic Eczema",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "",
+    "Symptoms": [
+      "Red patches of skin",
+      "Flakes that may attach to the hair shaft",
+      "Itching sensation"
+    ],
+    "Causes": [
+      "Extreme weather conditions",
+      "Body fatigue and stress",
+      "Usage of alcohol-based products",
+      "Family history and oily skin"
+    ],
+    "Actions": [
+      "Prescription-strength shampoos and ointments",
+      "Ranse the hair and scalp thoroughly"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antifungal",
+        "description": "Kills or prevents growth of fungi.",
+        "sub_list": [
+          "Pyrithione zinc",
+          "Ketoconazole"
+        ]
+      },
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Metronidazole",
+          "Sulfacetamide"
+        ]
+      }
+    ],
+    "images": [
+      "images/Seborrhoeic_001.jpg",
+      "images/Seborrhoeic_002.jpg",
+      "images/Seborrhoeic_003.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Shingles",
+    "color": "0xffff7a00",
+    "Risk Factor": "Medium",
+    "Description": "Shingles is a viral infection that results from the varicella-zoster virus (VZV), the same virus that causes chickenpox. It typically affects a single sensory nerve ganglion and the skin surface that the nerve supplies. Anyone who has had chickenpox can later develop shingles.",
+    "Symptoms": [
+      "Early symptoms can be fever and general weakness",
+      "Pain, burning, or tingling sensation on the affected area",
+      "Fluid-filled blisters",
+      "Blisters sometimes erupt and ooze"
+    ],
+    "Causes": [
+      "Shingles is caused by virus, like chickenpox",
+      "Due to lowered immune system"
+    ],
+    "Actions": [
+      "Shingles vaccination"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antiviral drug",
+        "description": "Reduces viruses' ability to replicate.",
+        "sub_list": [
+          "Acyclovir",
+          "Valacyclovir",
+          "Famciclovir"
+        ]
+      },
+      {
+        "title": "Anesthetic",
+        "description": "Blocks pain at and near the site where it's given, or along the nerve that's blocked.",
+        "sub_list": [
+          "Lidocaine"
+        ]
+      },
+      {
+        "title": "Nonsteroidal anti-inflammatory drug",
+        "description": "Relieves pain, decreases inflammation, and reduces fever.",
+        "sub_list": [
+          "Ibuprofen",
+          "Naproxen"
+        ]
+      }
+    ],
+    "images": [
+      "images/Shingles_001.jpg",
+      "images/Shingles_002.jpg",
+      "images/Shingles_003.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "SLE",
+    "color": "0xffff3500",
+    "Risk Factor": "High",
+    "Description": "Systemic lupus erythematosus (SLE) is an autoimmune disease. In this disease, the immune system of the body mistakenly attacks healthy tissue. It can affect the skin, joints, kidneys, brain, and other organs.",
+    "Symptoms": [
+      "Severe fatigue, joint pains, joint swelling, and headaches",
+      "Hair loss and blood-clotting problems",
+      "Rashes around cheeks and nose"
+    ],
+    "Causes": [
+      "Exposure to ultraviolet (UV) rays",
+      "Physical or emotional stress",
+      "Trauma",
+      "Hormones disorder"
+    ],
+    "Actions": [
+      "Anti-inflammatory medications for joint pain and stiffness",
+      "Steroid creams for rashes"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Immunosuppressive drug",
+        "description": "Reduces immune response.",
+        "sub_list": [
+          "Cyclosporine",
+          "Methotrexate"
+        ]
+      },
+      {
+        "title": "Steroid",
+        "description": "Modifies or simulates hormone effects, often to reduce inflammation or for tissue growth and repair.",
+        "sub_list": [
+          "Prednisone",
+          "Prednisolone"
+        ]
+      }
+    ],
+    "images": [
+      "images/SLE_001.jpg",
+      "images/SLE_002.jpg",
+      "images/SLE_003.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tick Bite",
+    "color": "0xff29d720",
+    "Risk Factor": "Low",
+    "Description": "Ticks are small, blood-sucking bugs. They can range in size from as small as a pin’s head to as large as a pencil eraser. Ticks have eight legs. They’re arachnids, which means they’re related to spiders. Ticks prefer warm, moist areas of the body. Once a tick gets on your body, they’re likely to migrate to your armpits, groin, or hair. When they’re in a desirable spot, they bite into your skin and begin drawing blood.",
+    "Symptoms": [
+      "Pain or swelling at the bite site",
+      "Redden rash with burning sensation",
+      "Difficulty breathing, if severe"
+    ],
+    "Causes": [
+      "Insect bites (tick)"
+    ],
+    "Actions": [
+      "Grasp the tick as close as possible and pull straight up and away from the skin",
+      "Clean the bite with soap and water",
+      "See a doctor to find out if any treatment is necessary (Lyme disease)"
+    ],
+    "Remedies": "It is always better to consult a doctor for medical advice",
+    "Remedies_list": [
+      {
+        "title": "Antibiotics",
+        "description": "Stops the growth of or kills bacteria.",
+        "sub_list": [
+          "Doxycycline",
+          "Ceftriaxone",
+          "Cefuroxime"
+        ]
+      },
+      {
+        "title": "Penicillin antibiotic",
+        "description": "Stops growth of or kills specific bacteria.",
+        "sub_list": [
+          "Amoxicillin"
+        ]
+      },
+      {
+        "title": "Nonsteroidal anti-inflammatory drug",
+        "description": "Relieves pain, decreases inflammation, and reduces fever.",
+        "sub_list": [
+          "Ibuprofen"
+        ]
+      }
+    ],
+    "images": [
+      "images/Tick_Bite_001.jpg",
+      "images/Tick_Bite_002.jpg",
+      "images/Tick_Bite_003.jpg"
+    ]
+  }
+]
+

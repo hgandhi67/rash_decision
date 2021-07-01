@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>954954637318-hagfpq82c5psfg213n1ckvi0m3sl3ged.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.954954637318-hagfpq82c5psfg213n1ckvi0m3sl3ged</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>954954637318-laph4j1ai1esicnk7uqbcqpr84if7slb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_e70ek1GKPzgQdknsfqeid3cp_KY7xp0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>954954637318</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.data245.rashdecisionapp</string>
+	<key>PROJECT_ID</key>
+	<string>rash-decision-cb0e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rash-decision-cb0e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:954954637318:ios:b8bddcd6fb2f1dbbb26387</string>
+	<key>DATABASE_URL</key>
+	<string>https://rash-decision-cb0e7.firebaseio.com</string>
+</dict>
+</plist>

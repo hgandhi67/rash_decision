@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "954954637318",
+    "firebase_url": "https://rash-decision-cb0e7.firebaseio.com",
+    "project_id": "rash-decision-cb0e7",
+    "storage_bucket": "rash-decision-cb0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954954637318:android:fcfb561f03f962aab26387",
+        "android_client_info": {
+          "package_name": "com.rash.decision.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954954637318-laph4j1ai1esicnk7uqbcqpr84if7slb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rash.decision.app",
+            "certificate_hash": "65ce9dc49aca3f351d39b46dca98656f2aa5444c"
+          }
+        },
+        {
+          "client_id": "954954637318-fse5ohgpfg96d9cnvva1mekt06mempp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rash.decision.app",
+            "certificate_hash": "a2a770def594964926bf684b9e038a1bfc2fd897"
+          }
+        },
+        {
+          "client_id": "954954637318-13olgb033f5n58o8pmbsaa2l7etm4iav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rash.decision.app",
+            "certificate_hash": "0b31bf1f830511516495fde2292fabe39299048d"
+          }
+        },
+        {
+          "client_id": "954954637318-8eimkl054b346t767td4tdbgs1ckai3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rash.decision.app",
+            "certificate_hash": "c18b906a8712dcf7b6206359d24d105aa6d7c0ad"
+          }
+        },
+        {
+          "client_id": "954954637318-03lsbdmp5m291usrvh9dk6n70rn38ih1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rash.decision.app",
+            "certificate_hash": "2d2ca2a702dcc676374cd1a654f170f9d5248f1a"
+          }
+        },
+        {
+          "client_id": "954954637318-c5jpl5nfdmjmfbpfnbo33ho7q5h19r6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5DWsQntZwnM_ggokVJ25Zjk_LgacgwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954954637318-c5jpl5nfdmjmfbpfnbo33ho7q5h19r6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954954637318-m5vl5gcb4r6bi2asd45t1l81scn0d6jd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.data245.rashdecision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
